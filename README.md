@@ -7,10 +7,12 @@ This repository contains the solutions for the case studies in 8WeekSQLChallenge
 
 Each case-study folder contains the following files:
 
-·A readme file explaining the problem statement and datasets used
+- A readme file explaining the problem statement and datasets used
 
-·SQL file to create the schema, tables and loading data
+- SQL file to create the schema, tables and loading data
 
-·MD files which contains SQL queries answering the respective challenge questions
+- MD files which contains SQL queries answering the respective challenge questions
 
-Note: Solutions are coded in PostgreSQL
+Note: 
+
+- Solutions are coded in PostgreSQL
