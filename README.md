@@ -10,6 +10,5 @@ Each case-study folder contains the following files:
 A readme file explaining the problem statement and datasets used
 SQL file to create the schema, tables and loading data
 MD files which contains SQL queries answering the respective challenge questions
-Note:
 
-Solutions are coded in PostgreSQL
+Note: Solutions are coded in PostgreSQL
